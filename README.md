@@ -7,5 +7,5 @@
 To get you started you can simply clone the repository:
 
 ```
-git clone https://github.com/eloraa/simple-swiper-slider
+git clone https://github.com/eloraa/grow-tree-xd-to-html
 ```
